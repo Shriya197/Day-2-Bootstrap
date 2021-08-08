@@ -1,0 +1,17 @@
+
+.container{
+    margin-top: 20px;
+}
+.container h1{
+    text-align: center;
+     color:blue;
+}
+
+.label{
+    padding-bottom: 5px;
+}
+
+.card {
+    margin-bottom: 40px;
+    width: 400px;
+}
